@@ -1,2 +1,2 @@
-# alena.hodorich15@gmail.com.github.io
+# Алена Ходорыч
 Мой первый сайт
