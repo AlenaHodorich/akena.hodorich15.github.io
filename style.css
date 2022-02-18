@@ -1,0 +1,29 @@
+div{
+    font-size:20px;    
+}
+
+span{
+    color: aqua
+}
+.text{
+    color: red
+}
+[custom_data=""]{
+    color: blue
+}
+
+span.text{
+    color: antiquewhite                у него приоритет выше
+}
+
+#text_span{
+    color:azure
+}
+.block>p{                                   все абзацы в этом классе, только первого уровня
+    font-size: 20 px
+}
+.block p{                                       ко всем параграфам внутри класса
+    font-size: 30 px
+}
+
+
